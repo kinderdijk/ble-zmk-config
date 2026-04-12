@@ -1,0 +1,12 @@
+file_format: "1"
+id: penkeebs_split
+name: PenSplit
+type: shield
+url: https://github.com/yourname/my-keyboard
+requires:
+  - pro_micro
+features:
+  - keys
+siblings:
+  - penkeebs_split_left
+  - penkeebs_split_right
