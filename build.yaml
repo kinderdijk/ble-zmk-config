@@ -18,10 +18,6 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
-board: [ "nice_nano_v2" ]
-shield: [ "split_ergo_ble_left", "split_ergo_ble_right" ]
 include:
   - board: nice_nano_v2
-    shield: split_ergo_ble_left
-  - board: nice_nano_v2
-    shield: split_ergo_ble_right
+    shield: PendustriesSplit
